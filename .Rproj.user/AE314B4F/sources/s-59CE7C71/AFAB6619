@@ -1,0 +1,23 @@
+{
+    "id": "AFAB6619",
+    "path": "~/R_projects/GCMR/GCMR/man/run_model.Rd",
+    "project_path": "man/run_model.Rd",
+    "type": "r_doc",
+    "hash": "1830392820",
+    "contents": "",
+    "dirty": false,
+    "created": 1652423455699.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {},
+    "folds": "",
+    "lastKnownWriteTime": 1652423449,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1652423449,
+    "read_only": true,
+    "read_only_alternatives": [
+        "R/model.R"
+    ]
+}
